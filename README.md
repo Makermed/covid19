@@ -14,3 +14,11 @@
 ☐   Aspirin 81mg daily for 21 days
 
 ☐   Vitamin D 1000 units daily
+
+
+***
+Signature
+
+Date:
+
+License Number:
