@@ -1,9 +1,12 @@
 ☐  Budesonide 800 mcg inhaled twice daily  
-    if unavailable, please substitute with  
-    Beclomethasone 400 mcg twice daily  
-           Ciclesonide 400 mcg twice daily  
-           Fluticasone 500 mcg twice daily  
-           Mometasone 400mcg twice daily  
+    if unavailable, please substitute with
+<ul>
+    <li>Beclomethasone 400 mcg twice daily</li>
+    <li>Ciclesonide 400 mcg twice daily</li>
+    <li>Fluticasone 500 mcg twice daily</li>
+    <li>Mometasone 400mcg twice daily</li>
+</ul>  
+
 ☐   Pulse Oximeter – Check your levels twice daily.  Come to  
           hospital if levels are below 94% or if you are feeling  
           increasingly short of breath  
