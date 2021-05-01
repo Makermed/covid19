@@ -1,4 +1,4 @@
-**Covid-19 Prescription
+**Covid-19 Prescription**
 
 ☐  Budesonide 800 mcg inhaled twice daily  
     if unavailable, please substitute with
